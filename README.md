@@ -240,12 +240,12 @@ I'm currently looking for **internship and entry-level opportunities** involving
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <p align="left">
   <img
-    src="https://img.shields.io/github/repos/gohilnil?style=for-the-badge&label=Public%20Repositories"
-    alt="Public repositories"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gohilnil&hide_border=true"
+    alt="Nil Gohil's GitHub contribution activity graph"
   />
 </p>
 
