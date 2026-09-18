@@ -78,7 +78,7 @@ My current focus is **backend development and applied AI**, with additional expe
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
-
+---
 # 🚀 Selected Projects
 
 ## 🩺 ArogyaAI — AI Healthcare Assistant
@@ -238,16 +238,29 @@ I'm currently looking for **internship and entry-level opportunities** involving
 
 ---
 
-# 📊 GitHub
+## 📊 GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gohilnil&show_icons=true&hide_title=true&hide_border=true&count_private=false" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gohilnil&show_icons=true&hide_title=true&hide_border=true&count_private=false&include_all_commits=false"
+    alt="Nil Gohil's GitHub statistics"
+  />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/repo-size/gohilnil/gohilnil?style=flat-square" />
+  <img
+    src="https://img.shields.io/github/followers/gohilnil?style=flat-square&label=Followers"
+    alt="GitHub followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/gohilnil?style=flat-square&label=Stars"
+    alt="GitHub stars"
+  />
+  <img
+    src="https://img.shields.io/github/repos/gohilnil?style=flat-square&label=Public%20Repositories"
+    alt="Public repositories"
+  />
 </p>
-
 ---
 
 ### Thanks for visiting.
