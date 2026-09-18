@@ -3,22 +3,23 @@
 ### Backend & Applied AI Developer
 **Python · FastAPI · LLM Integrations · REST APIs**
 
-I build backend systems and API-driven applications using Python, FastAPI, databases, third-party APIs, and LLM integrations.
+I build backend systems and AI-powered applications using **Python, FastAPI, REST APIs, databases, and LLM integrations**.
 
-My current focus is **backend development and applied AI**, with additional experience in data analytics and application development. I'm currently pursuing my **Master of Computer Applications (MCA)** at Silver Oak University, Gujarat.
+Currently pursuing a **Master of Computer Applications (MCA)** at Silver Oak University, Gujarat, with a focus on backend development, applied AI, API development, and practical software engineering.
 
 ---
 
-## 🧩 What I Work With
+## 🧩 Focus Areas
 
 - **Backend Development** — Python, FastAPI, Flask, Node.js, Express
-- **API Development** — REST APIs, authentication, third-party API integrations
+- **API Development** — REST APIs, authentication, third-party integrations
 - **Applied AI** — LLM integrations, Groq API, Ollama, AI-powered workflows
-- **Databases** — PostgreSQL, MySQL, Supabase
-- **Data & Analytics** — Pandas, NumPy, Streamlit, SQL, Power BI, Excel
-- **Development Tools** — Docker, Git, GitHub, pytest
+- **Databases** — PostgreSQL, MySQL, Supabase, SQL
+- **Data & Analytics** — Pandas, NumPy, Streamlit, Power BI, Excel
+- **Engineering Tools** — Docker, Git, GitHub, pytest
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### Backend & APIs
@@ -29,7 +30,6 @@ My current focus is **backend development and applied AI**, with additional expe
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 ### AI & LLM
@@ -59,7 +59,7 @@ My current focus is **backend development and applied AI**, with additional expe
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
-### Development Tools
+### Tools & Additional Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -67,56 +67,47 @@ My current focus is **backend development and applied AI**, with additional expe
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
-
-### Web & Mobile
-
-<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 ---
 
-# 🚀 Selected Projects
+# 🚀 Featured Projects
 
 ## 🩺 ArogyaAI — AI Healthcare Assistant
 
-An AI-powered healthcare application combining a FastAPI backend, LLM integration, authentication, database persistence, payment handling, and healthcare-focused workflows.
+An AI-powered healthcare application built around a **FastAPI backend**, combining LLM integration, authentication, database persistence, payment handling, and application workflows.
 
-**Tech Stack**
-
+**Stack:**  
 `Python` `FastAPI` `Groq` `PostgreSQL` `Supabase` `JWT` `Razorpay` `Docker`
 
-### Highlights
+**Key Components**
 
-- FastAPI backend and REST API architecture
-- Groq LLM integration
+- FastAPI REST API backend
 - JWT-based authentication
-- PostgreSQL / Supabase database integration
+- PostgreSQL and Supabase integration
+- Groq LLM integration
 - Razorpay payment integration
 - Automated testing with a **93-test pytest suite**
-- Docker-based containerization
+- Docker-based development environment
 - Render deployment configuration
-- Earlier prototype included OCR-based medical report analysis
+- Earlier prototype included OCR-based report analysis
 - Earlier prototype supported English and Gujarati interaction
 
 ---
 
 ## 📞 AI Voice Receptionist for Clinics
 
-A Node.js and Express application that uses Twilio for voice-call handling and Groq for LLM-powered conversation logic.
+A Node.js and Express application designed to handle clinic voice interactions using **Twilio** for calls and **Groq** for LLM-powered conversation handling.
 
-**Tech Stack**
-
+**Stack:**  
 `Node.js` `Express` `Twilio` `Groq` `PostgreSQL`
 
-### Highlights
+**Key Components**
 
-- Twilio-based voice call handling
+- Twilio-based voice-call handling
 - LLM-powered conversation flow
 - Appointment scheduling workflow
 - Appointment confirmation
@@ -128,13 +119,12 @@ A Node.js and Express application that uses Twilio for voice-call handling and G
 
 ## 📊 AI Analytics Dashboard
 
-A Streamlit analytics application that combines Python-based data processing with a local LLM for natural-language dataset exploration.
+A Streamlit application combining Python-based data analysis with a local LLM to provide interactive dataset exploration.
 
-**Tech Stack**
-
+**Stack:**  
 `Python` `Pandas` `NumPy` `Streamlit` `Ollama`
 
-### Highlights
+**Key Components**
 
 - CSV and Excel dataset upload
 - Automatic KPI generation
@@ -142,27 +132,26 @@ A Streamlit analytics application that combines Python-based data processing wit
 - Correlation analysis
 - Natural-language dataset queries
 - AI-generated insights
-- Anomaly / outlier detection
+- Anomaly and outlier detection
 
 ---
 
 ## 📚 Library Management System
 
-A web-based library management application built with PHP and MySQL for managing books, circulation, and administrative workflows.
+A web-based library management application built with PHP and MySQL for managing books, circulation, and administrative operations.
 
-**Tech Stack**
-
+**Stack:**  
 `PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
 
-### Highlights
+**Key Components**
 
 - Book management
 - CRUD operations
 - Book issue and return workflow
 - Overdue tracking
 - Search and filtering
-- Admin dashboard
-- Database-driven application
+- Administrative dashboard
+- Database-driven record management
 
 ---
 
@@ -170,16 +159,16 @@ A web-based library management application built with PHP and MySQL for managing
 
 ### Flutter Trainee — Pistalix Software Solutions
 
-Completed structured Flutter training focused on learning mobile application development and the Flutter framework.
+Completed structured training focused on **Flutter and mobile application development** through course material, guided learning, and hands-on exercises.
 
-Training included:
+**Training Areas**
 
 - Flutter fundamentals
 - Widgets and layouts
 - Navigation
 - State management
 - Application structure
-- Hands-on development exercises
+- Mobile UI development
 - Flutter development workflow
 
 ---
@@ -198,29 +187,35 @@ Training included:
 
 ---
 
-# 📚 Currently Exploring
+# 🔎 Currently Exploring
 
-`Python Backend Development`  
-`FastAPI`  
-`REST API Design`  
-`LLM Integration`  
-`Applied AI`  
-`PostgreSQL`  
-`Backend Architecture`  
-`Data Analytics`  
-`SQL`  
-`Power BI`
+**Backend Engineering**  
+Python · FastAPI · REST API Design · PostgreSQL
+
+**Applied AI**  
+LLM Integration · AI APIs · Local LLMs · AI-powered Applications
+
+**Software Engineering**  
+Backend Architecture · Authentication · API Integration · Testing · Docker
+
+**Data**  
+SQL · Pandas · NumPy · Data Analytics · Power BI
 
 ---
 
-# 🎯 Open To
+# 🎯 Open To Opportunities
 
-I'm currently looking for **internship and entry-level opportunities** involving:
+I'm currently looking for **internship and entry-level opportunities** in:
 
 **Backend Development · Python Development · Applied AI · LLM Applications · Software Development**
 
-**Preferred:**  
-🌐 Remote → 📍 Surat → 📍 Vadodara → 📍 Mumbai → 📍 Ahmedabad/Gandhinagar
+**Preferred Locations**
+
+🌐 Remote  
+📍 Surat  
+📍 Vadodara  
+📍 Mumbai  
+📍 Ahmedabad / Gandhinagar
 
 ---
 
@@ -228,44 +223,26 @@ I'm currently looking for **internship and entry-level opportunities** involving
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nilgohil/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/gohilnil">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:nilgohil235@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📂 Explore My Work
 
-<p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gohilnil&hide_border=true"
-    alt="Nil Gohil's GitHub contribution activity graph"
-  />
-</p>
+The best way to evaluate my work is through the repositories and project implementations linked on my GitHub profile.
 
-<p align="left">
-  <img
-    src="https://img.shields.io/github/followers/gohilnil?style=flat-square&label=Followers"
-    alt="GitHub followers"
-  />
-  <img
-    src="https://img.shields.io/github/stars/gohilnil?style=flat-square&label=Stars"
-    alt="GitHub stars"
-  />
-  <img
-    src="https://img.shields.io/github/repos/gohilnil?style=flat-square&label=Public%20Repositories"
-    alt="Public repositories"
-  />
-</p>
+I'm continuously improving these projects while building stronger foundations in **backend engineering, APIs, and applied AI**.
 
 ---
 
-### Thanks for visiting.
-
-Feel free to explore the repositories above and connect with me.
+<p align="center">
+  <i>Building practical software at the intersection of backend engineering, APIs, and AI.</i>
+</p>
