@@ -1,90 +1,236 @@
 # Nil Gohil
 
-**Backend & Applied AI Developer** · Python · FastAPI · LLM Integrations · REST APIs
+### Backend & Applied AI Developer
+**Python · FastAPI · LLM Integrations · REST APIs**
 
-I build backend systems and API-driven applications that integrate LLMs into practical workflows — authentication, databases, and AI/LLM calls wired into working services rather than notebooks. Data analytics (SQL, Power BI, Excel) supports that work but isn't the main focus. Currently an MCA student, looking for backend / applied AI internship and entry-level roles.
+I build backend systems and API-driven applications using Python, FastAPI, databases, third-party APIs, and LLM integrations.
 
----
-
-## Stack
-
-**Backend & APIs**
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" height="40"/>
-
-**AI & LLM**
-Groq API · Ollama (local LLM) · LLM-driven conversation & analysis pipelines
-
-**Databases**
-<img src="https://skillicons.dev/icons?i=postgres,mysql" height="40"/> · Supabase
-
-**Data & Analytics**
-<img src="https://skillicons.dev/icons?i=pandas,numpy" height="40"/> · Streamlit · Power BI · Excel
-
-**Tools & Other**
-<img src="https://skillicons.dev/icons?i=docker,git,github,php,html,css,js,flutter" height="40"/> · JWT · pytest
+My current focus is **backend development and applied AI**, with additional experience in data analytics and application development. I'm currently pursuing my **Master of Computer Applications (MCA)** at Silver Oak University, Gujarat.
 
 ---
 
-## Selected Projects
+## 🧩 What I Work With
 
-### ArogyaAI — AI Healthcare Assistant
-Backend for a health-assistant application: FastAPI service with JWT authentication, PostgreSQL/Supabase persistence, Groq LLM integration, and Razorpay payment handling, covered by a 93-test pytest suite. Containerized with Docker (deployment configuration for Render, not a live production endpoint). An earlier prototype explored OCR-based medical report parsing with English/Gujarati bilingual support.
-- FastAPI REST backend with JWT-based auth
-- PostgreSQL + Supabase for persistence
-- Groq LLM integration for AI-assisted responses
+- **Backend Development** — Python, FastAPI, Flask, Node.js, Express
+- **API Development** — REST APIs, authentication, third-party API integrations
+- **Applied AI** — LLM integrations, Groq API, Ollama, AI-powered workflows
+- **Databases** — PostgreSQL, MySQL, Supabase
+- **Data & Analytics** — Pandas, NumPy, Streamlit, SQL, Power BI, Excel
+- **Development Tools** — Docker, Git, GitHub, pytest
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" height="42" />
+</p>
+
+**Python · FastAPI · Flask · Node.js · Express · REST APIs**
+
+### AI & LLM
+
+**Groq API · Ollama · LLM Integration · AI-powered workflows**
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="42" />
+</p>
+
+**PostgreSQL · MySQL · Supabase · SQL**
+
+### Data & Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,streamlit" height="42" />
+</p>
+
+**Pandas · NumPy · Streamlit · Power BI · Excel**
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,php,html,css,js,flutter" height="42" />
+</p>
+
+**Docker · Git · GitHub · pytest · JWT**
+
+---
+
+# 🚀 Selected Projects
+
+## 🩺 ArogyaAI — AI Healthcare Assistant
+
+An AI-powered healthcare application combining a FastAPI backend, LLM integration, authentication, database persistence, payment handling, and healthcare-focused workflows.
+
+**Tech Stack**
+
+`Python` `FastAPI` `Groq` `PostgreSQL` `Supabase` `JWT` `Razorpay` `Docker`
+
+### Highlights
+
+- FastAPI backend and REST API architecture
+- Groq LLM integration
+- JWT-based authentication
+- PostgreSQL / Supabase database integration
 - Razorpay payment integration
-- 93-test pytest suite
+- Automated testing with a **93-test pytest suite**
 - Docker-based containerization
-- Earlier prototype: OCR report parsing, English/Gujarati bilingual handling
+- Render deployment configuration
+- Earlier prototype included OCR-based medical report analysis
+- Earlier prototype supported English and Gujarati interaction
 
-### AI Voice Receptionist for Clinics
-Node.js/Express backend that handles inbound clinic calls via Twilio, using an LLM (Groq) to run the conversation, detect language, and manage appointment scheduling — including confirmation and emergency-call escalation.
+---
+
+## 📞 AI Voice Receptionist for Clinics
+
+A Node.js and Express application that uses Twilio for voice-call handling and Groq for LLM-powered conversation logic.
+
+**Tech Stack**
+
+`Node.js` `Express` `Twilio` `Groq` `PostgreSQL`
+
+### Highlights
+
 - Twilio-based voice call handling
-- LLM-powered (Groq) conversation logic
-- Appointment scheduling and confirmation workflow
-- Emergency-call escalation handling
+- LLM-powered conversation flow
+- Appointment scheduling workflow
+- Appointment confirmation
+- Emergency-call escalation
 - Multilingual detection
-- PostgreSQL for appointment/data storage
+- PostgreSQL data storage
 
-### AI Analytics Dashboard
-Streamlit application for exploring tabular datasets, pairing standard analytics (KPIs, correlation, anomaly detection) with a local LLM (Ollama) for natural-language querying and generated insights.
-- CSV/Excel dataset upload
+---
+
+## 📊 AI Analytics Dashboard
+
+A Streamlit analytics application that combines Python-based data processing with a local LLM for natural-language dataset exploration.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Streamlit` `Ollama`
+
+### Highlights
+
+- CSV and Excel dataset upload
 - Automatic KPI generation
-- Data visualization and correlation analysis
-- Natural-language dataset queries via Ollama
+- Data visualization
+- Correlation analysis
+- Natural-language dataset queries
 - AI-generated insights
-- Anomaly/outlier detection
-
-### Library Management System
-PHP/MySQL web application for managing library records and circulation, with a JS/HTML/CSS frontend over PHP backend logic.
-- CRUD operations for book records
-- Book issue/return workflow with overdue tracking
-- Search and filtering across records
-- Admin dashboard for centralized management
-- Form validation and query-level debugging
+- Anomaly / outlier detection
 
 ---
 
-## Training
+## 📚 Library Management System
 
-**Flutter Trainee — Pistalix Software Solutions**
-Structured trainee training in Flutter development through course material and guided exercises (not a professional engineering role).
+A web-based library management application built with PHP and MySQL for managing books, circulation, and administrative workflows.
 
-## Education
+**Tech Stack**
 
-**Master of Computer Applications (MCA)** — Silver Oak University, Gujarat *(2025–2027)*
-**Bachelor of Computer Applications (BCA)** — Veer Narmad South Gujarat University *(2022–2025)*
+`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
+
+### Highlights
+
+- Book management
+- CRUD operations
+- Book issue and return workflow
+- Overdue tracking
+- Search and filtering
+- Admin dashboard
+- Database-driven application
 
 ---
 
-## GitHub
+# 💼 Training
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gohilnil&label=Public%20Repos&query=%24.public_repos&color=informational&style=flat-square)
+### Flutter Trainee — Pistalix Software Solutions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gohilnil&show_icons=true&hide_title=true&hide_border=true&count_private=false&theme=default)
+Completed structured Flutter training focused on learning mobile application development and the Flutter framework.
+
+Training included:
+
+- Flutter fundamentals
+- Widgets and layouts
+- Navigation
+- State management
+- Application structure
+- Hands-on development exercises
+- Flutter development workflow
 
 ---
 
-## Contact
+# 🎓 Education
 
-[LinkedIn](https://www.linkedin.com/in/nilgohil/) · [GitHub](https://github.com/gohilnil) · nilgohil235@gmail.com
+### Master of Computer Applications (MCA)
+
+**Silver Oak University, Gujarat**  
+2025 – 2027
+
+### Bachelor of Computer Applications (BCA)
+
+**Veer Narmad South Gujarat University, Gujarat**  
+2022 – 2025
+
+---
+
+# 📚 Currently Exploring
+
+`Python Backend Development`  
+`FastAPI`  
+`REST API Design`  
+`LLM Integration`  
+`Applied AI`  
+`PostgreSQL`  
+`Backend Architecture`  
+`Data Analytics`  
+`SQL`  
+`Power BI`
+
+---
+
+# 🎯 Open To
+
+I'm currently looking for **internship and entry-level opportunities** involving:
+
+**Backend Development · Python Development · Applied AI · LLM Applications · Software Development**
+
+**Preferred:**  
+🌐 Remote → 📍 Surat → 📍 Vadodara → 📍 Mumbai → 📍 Ahmedabad/Gandhinagar
+
+---
+
+# 🌐 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nilgohil/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gohilnil">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:nilgohil235@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gohilnil&show_icons=true&hide_title=true&hide_border=true&count_private=false" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/github/repo-size/gohilnil/gohilnil?style=flat-square" />
+</p>
+
+---
+
+### Thanks for visiting.
+
+Feel free to explore the repositories above and connect with me.
