@@ -1,240 +1,232 @@
 # 👋 Hi, I'm Nil Gohil
 
 ### Backend & Applied AI Developer
-**Python · FastAPI · LLM Integrations · REST APIs · PostgreSQL**
+**Python • FastAPI • LLM Integrations • REST APIs**
 
-I build backend systems and AI-powered applications that connect APIs, databases, authentication, and LLM services into practical software.
+I build practical backend systems and AI-powered applications using **Python, FastAPI, REST APIs, databases, and LLM integrations**.
 
-Currently pursuing a **Master of Computer Applications (MCA)** at **Silver Oak University, Gujarat**, while developing hands-on experience in backend engineering, applied AI, API development, and data applications.
+Currently pursuing my **Master of Computer Applications (MCA)** at **Silver Oak University, Gujarat**, while developing hands-on experience through backend engineering, applied AI, data applications, and software projects.
 
 ---
 
-## 🧭 About
+## 🚀 What I Build
 
-My primary focus is **Python backend development and applied AI**.
+- 🔧 **Backend Systems** — REST APIs, authentication, database integration, and backend services
+- 🤖 **Applied AI Applications** — LLM integrations, AI-powered workflows, and local AI applications
+- 🔌 **API Integrations** — AI, payment, communication, and database APIs
+- 📊 **Data Applications** — dataset analysis, KPIs, visualizations, and anomaly detection
 
-I enjoy working across the application layer — from designing REST APIs and database-backed services to integrating LLMs and external APIs into usable applications.
+---
 
-My current technical focus includes:
+## 🛠️ Technical Stack
 
-- 🐍 Python backend development
-- ⚡ FastAPI & REST API development
-- 🤖 LLM / AI API integration
-- 🗄️ PostgreSQL & Supabase
-- 🔐 Authentication & API security
-- 🐳 Docker-based development
-- 📊 Python-based data analytics
-- 🔌 Third-party API integrations
+### Backend & APIs
 
-I'm particularly interested in building software where **backend engineering and AI work together**, rather than treating AI as a standalone feature.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" />
+</p>
+
+**Python • FastAPI • Flask • Node.js • Express • REST APIs**
+
+### AI & LLM
+
+**LLM Integration • Groq • Ollama • AI-powered Applications**
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" />
+</p>
+
+**PostgreSQL • Supabase • MySQL • SQL**
+
+### Data & Analytics
+
+**Pandas • NumPy • Streamlit • Power BI • Excel**
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+**Git • GitHub • Docker**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🩺 ArogyaAI
+## 🩺 ArogyaAI — AI Healthcare Assistant
 
-### AI Healthcare Assistant
+An AI-powered healthcare application combining backend APIs, LLM integration, authentication, databases, and healthcare-focused workflows.
 
-A backend-focused AI healthcare application combining API development, authentication, database integration, LLM services, and healthcare-oriented workflows.
-
-**Core Technologies**
+**Tech Stack**
 
 `Python` `FastAPI` `Groq` `PostgreSQL` `Supabase` `JWT` `Razorpay` `Docker`
 
-### Key Engineering Work
+**Key Features**
 
-- Designed backend services using **FastAPI**
-- Integrated **Groq LLM APIs** for AI-powered functionality
-- Implemented **JWT-based authentication**
-- Integrated **PostgreSQL / Supabase**
-- Added **Razorpay payment integration**
-- Built automated tests using **pytest**
-- Maintained a **93-test test suite**
-- Containerized the application using **Docker**
-- Added deployment configuration for **Render**
-
-### Earlier Prototype
-
-An earlier version explored:
-
-- OCR-based medical report analysis
-- English / Gujarati interaction
-- AI-assisted report interpretation
-- Healthcare-focused conversational workflows
-
-> **Focus:** Backend Engineering · LLM Integration · APIs · Authentication · Databases
+- FastAPI backend architecture
+- Groq LLM integration
+- PostgreSQL / Supabase database integration
+- JWT-based authentication
+- Razorpay payment integration
+- Automated testing with a **93-test pytest suite**
+- Docker-based development and deployment configuration
 
 ---
 
 ## 📊 AI Analytics Dashboard
 
-### Natural-Language Data Exploration with Local AI
+A Streamlit-based analytics application that combines Python data processing with a local LLM for interactive dataset exploration.
 
-A Streamlit-based analytics application that combines Python data processing with a locally hosted LLM.
-
-**Core Technologies**
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Streamlit` `Ollama`
 
-### Features
+**Key Features**
 
-- 📁 CSV and Excel dataset upload
-- 📊 Automatic KPI generation
-- 📈 Automatic data visualization
-- 🔗 Correlation analysis
-- 💬 Natural-language dataset queries
-- 🤖 AI-generated insights
-- 🔎 Anomaly / outlier detection
-
-The project explores how local LLMs can make traditional dataset exploration more accessible through natural-language interaction.
-
-> **Focus:** Data Analytics · Python · Local LLMs · Data Visualization
+- CSV and Excel dataset upload
+- Automatic KPI generation
+- Data visualization
+- Correlation analysis
+- Natural-language dataset queries
+- AI-generated insights
+- Anomaly / outlier detection
 
 ---
 
-## 📞 AI Voice Receptionist
+## 📞 AI Voice Receptionist for Clinics
 
-### AI-Powered Clinic Voice Assistant
+An AI-powered voice assistant designed around clinic appointment workflows.
 
-A voice-based assistant designed around clinic appointment workflows using Twilio and an LLM backend.
-
-**Core Technologies**
+**Tech Stack**
 
 `Node.js` `Express` `Twilio` `Groq` `PostgreSQL`
 
-### Features
+**Key Features**
 
-- 📞 Twilio-based voice call handling
-- 📅 Appointment workflow
-- ✅ Appointment confirmation
-- 🚨 Emergency-call escalation
-- 🌐 Multilingual detection
-- 🤖 LLM-powered conversation handling
-
-The project focuses on connecting **voice communication, backend APIs, and AI services** into a practical workflow.
-
-> **Focus:** Node.js · APIs · Twilio · LLM Integration · Voice Applications
+- Twilio-based voice call handling
+- Appointment workflow
+- Appointment confirmation
+- Emergency-call escalation
+- Multilingual detection
+- LLM-powered conversation handling
 
 ---
 
 ## 📚 Library Management System
 
-### PHP & MySQL Web Application
+A database-driven library management application built with PHP and MySQL.
 
-A database-driven library management application developed using PHP and MySQL.
-
-**Core Technologies**
+**Tech Stack**
 
 `PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
 
-### Features
+**Key Features**
 
 - Book management
 - CRUD operations
-- Database integration
-- Administrative dashboard
+- Admin dashboard
+- Database-driven workflows
 - Library record management
 
-> **Focus:** PHP · MySQL · CRUD · Web Development
-
 ---
 
-# 🧰 Technical Skills
-
-## Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" />
-</p>
-
-**Python · FastAPI · Flask · Node.js · Express · REST APIs**
-
----
-
-## AI & LLM
-
-**LLM Integration · AI APIs · Groq · Ollama · Prompt-based AI Applications**
-
----
-
-## Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" />
-</p>
-
-**PostgreSQL · Supabase · MySQL · SQL**
-
----
-
-## Data & Analytics
-
-**Pandas · NumPy · Streamlit · Power BI · Excel**
-
----
-
-## Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
-
-**Git · GitHub · Docker · VS Code · Postman**
-
----
-
-# 💼 Professional Experience
+# 💼 Training Experience
 
 ## Flutter Trainee — Pistalix Software Solutions
 
-Completed structured training focused on Flutter and mobile application development.
+Completed a structured **Flutter training program** focused on learning mobile application development and the Flutter framework.
 
-### Training & Practical Learning
+**Training & Practice**
 
 - Flutter fundamentals
 - Widgets and layouts
 - Navigation
 - State management
-- Application structure
-- Mobile UI development
-- Hands-on Flutter exercises
-- Flutter development workflow
-
-This experience provided practical exposure to mobile application development and the Flutter ecosystem.
+- Mobile application structure
+- Hands-on development exercises
+- Flutter development workflow and tools
 
 ---
 
 # 🎓 Education
 
-## Silver Oak University
+### Master of Computer Applications (MCA)
+**Silver Oak University — Ahmedabad, Gujarat**  
+`2025 – 2027`
 
-**Master of Computer Applications (MCA)**  
-Ahmedabad, Gujarat · **2025 – 2027**
-
----
-
-## Veer Narmad South Gujarat University
-
-**Bachelor of Computer Applications (BCA)**  
-Surat, Gujarat · **2022 – 2025**
+### Bachelor of Computer Applications (BCA)
+**Veer Narmada South Gujarat University — Surat, Gujarat**  
+`2022 – 2025`
 
 ---
 
-# 📚 Currently Learning
+# 📌 Current Focus
 
-I'm continuously improving my skills in:
+I'm currently developing my skills in:
 
-```text
-Python Backend Development
-FastAPI
-REST API Design
-LLM Integration
-Applied AI
-PostgreSQL
-Backend Architecture
-Authentication
-API Integration
-Data Analytics
-SQL
-Power BI
+`Python Backend Development`  
+`FastAPI`  
+`REST API Design`  
+`LLM Integration`  
+`Applied AI`  
+`PostgreSQL`  
+`Backend Architecture`  
+`Data Analytics`  
+`SQL`  
+`Power BI`
+
+---
+
+# 🎯 Open To Opportunities
+
+I'm currently looking for **internship and entry-level opportunities** in:
+
+**Backend Development • Python Development • Applied AI • LLM Applications • Software Development**
+
+🌐 **Location preference:**  
+**Remote → Surat → Vadodara → Mumbai → Ahmedabad/Gandhinagar**
+
+---
+
+# 🌐 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/nilgohil">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gohilnil">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:nilgohil235@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Overview
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gohilnil&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Nil Gohil's GitHub statistics"
+  />
+</p>
+
+### 📦 Public Repositories
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Public%20Repositories-9-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="9 public repositories"
+  />
+</p>
+
+---
+
+### 👨‍💻 Building software, learning continuously, and exploring practical applications of backend engineering and AI.
+
+⭐ **Thanks for visiting my profile!**
