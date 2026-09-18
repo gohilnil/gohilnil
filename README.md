@@ -1,113 +1,217 @@
-# Hi, I'm Nil Gohil 👋
+# 💫 Hi 👋, I'm Nil Gohil
 
-### Backend & Applied AI Developer | Python • FastAPI • LLM Integrations
+**Backend & Applied AI Developer | Python, FastAPI, LLM Integrations | API Development**
 
-I build backend systems and AI-powered applications using Python, FastAPI, REST APIs, databases, and LLM integrations.
+I build backend systems and AI-powered applications using Python, FastAPI, LLM integrations, and APIs.
 
-Currently pursuing my **Master of Computer Applications (MCA)** at Silver Oak University, Gujarat.
+I'm currently pursuing my MCA at Silver Oak University, Gujarat, and building practical experience through backend development, applied AI projects, data analytics, and software development.
 
-### 🚀 What I Build
+---
 
-- 🤖 **AI-powered applications** using LLM APIs and backend services
-- ⚙️ **Python backend systems** with FastAPI and Flask
-- 🔌 **REST APIs & third-party API integrations**
-- 🗄️ **Database-backed applications** using PostgreSQL / Supabase
-- 📊 **Data & analytics applications** using Python, Pandas, NumPy and Streamlit
+## 🚀 What I'm Working On
 
-### 🛠️ Core Tech Stack
+- 🔭 Building backend systems and AI-powered applications with Python and FastAPI
+- 🤖 Exploring LLM integrations, AI APIs, and local AI models
+- 📊 Building data analytics applications using Python, Pandas, NumPy, and Streamlit
+- 🧠 Learning more about scalable backend architecture and applied AI
+- 💻 Improving my software development and API development skills
 
-**Backend**
-- Python
-- FastAPI
-- Flask
-- REST APIs
-- Node.js
-- Express
+---
 
-**AI / LLM**
-- LLM API Integration
-- Groq
-- Ollama
-- AI-powered application development
+## 🛠️ Core Stack
 
-**Databases**
-- PostgreSQL
-- Supabase
-- MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,postgres,supabase,docker,git,github" />
+</p>
 
-**Data & Analytics**
-- Pandas
-- NumPy
-- Streamlit
-- SQL
-- Power BI
-- Excel
+**Backend:** Python • FastAPI • Flask • Node.js • Express • REST APIs
 
-**Tools**
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
+**AI:** LLM Integration • Groq • Ollama
 
-### 📌 Featured Projects
+**Database:** PostgreSQL • Supabase • SQL
 
-#### 🩺 ArogyaAI — AI Healthcare Assistant
+**Data & Analytics:** Pandas • NumPy • Streamlit • Power BI • Excel
 
-A backend-focused healthcare application combining AI capabilities with patient-oriented features.
+---
 
-**Tech:** Python • FastAPI • Groq • PostgreSQL/Supabase • JWT • Razorpay • Docker
+## 🚀 Featured Projects
 
-- FastAPI backend with REST API architecture
+### 🩺 ArogyaAI — AI Healthcare Assistant
+
+An AI-powered healthcare application focused on combining backend APIs, AI integrations, authentication, databases, and practical healthcare workflows.
+
+**Tech Stack:**
+
+`Python` `FastAPI` `Groq` `PostgreSQL` `Supabase` `JWT` `Razorpay` `Docker`
+
+**Highlights:**
+
+- FastAPI backend architecture
 - LLM integration using Groq
-- JWT-based authentication
 - PostgreSQL/Supabase database integration
-- Payment API integration
+- JWT-based authentication
+- Razorpay payment integration
 - Automated testing with a 93-test pytest suite
+- Docker-based development and deployment configuration
 
-#### 📊 AI Analytics Dashboard
+🔗 **Repository:**  
+https://github.com/Mishalma/AarogyaAI---AI-Powered-Healthcare-Assistant
 
-A Streamlit-based analytics application that allows users to explore datasets using natural-language interaction with a local LLM.
+---
 
-**Tech:** Python • Pandas • NumPy • Streamlit • Ollama
+### 📊 AI Analytics Dashboard
 
-- CSV/Excel dataset analysis
+A Streamlit-based analytics application that allows users to explore datasets using Python and a local LLM.
+
+**Tech Stack:**
+
+`Python` `Pandas` `NumPy` `Streamlit` `Ollama`
+
+**Features:**
+
+- CSV / Excel dataset upload
 - Automatic KPI generation
-- Data visualizations
+- Data visualization
+- Correlation analysis
 - Natural-language data queries
-- Anomaly/outlier detection
+- AI-generated insights
+- Anomaly / outlier detection
 
-#### 📞 AI Voice Receptionist
+🔗 **Repository:**  
+Add your current GitHub repository link here.
 
-An AI-powered clinic voice assistant built around telephony and LLM integrations.
+---
 
-**Tech:** Node.js • Express • Twilio • PostgreSQL • Groq
+### 📞 AI Voice Receptionist for Clinics
 
-- Voice call handling through Twilio
-- Appointment confirmation flow
+An AI-powered clinic receptionist designed to handle appointment-related voice interactions.
+
+**Tech Stack:**
+
+`Node.js` `Express` `Twilio` `Groq` `PostgreSQL`
+
+**Features:**
+
+- Twilio-based voice call handling
+- Appointment booking flow
+- Appointment confirmation
 - Emergency-call escalation
 - Multilingual detection
-- LLM-powered conversational responses
+- LLM-powered conversation handling
 
-### 🎓 Education
+🔗 **Repository:**  
+Add your current GitHub repository link here.
+
+---
+
+### 📚 Library Management System
+
+A web-based library management application developed using PHP and MySQL.
+
+**Tech Stack:**
+
+`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
+
+**Features:**
+
+- Book management
+- CRUD operations
+- Admin dashboard
+- Database-driven application
+- User interface for managing library records
+
+🔗 **Repository:**  
+Add your repository link here.
+
+---
+
+## 💼 Experience
+
+### Flutter Trainee — Pistalix Software Solutions
+
+Completed a structured Flutter training program focused on learning mobile application development and the Flutter framework.
+
+**Learning & Practice:**
+
+- Flutter fundamentals
+- Widgets and layouts
+- Navigation
+- State management
+- Mobile application structure
+- Hands-on Flutter exercises
+- Development workflow and tools
+
+---
+
+## 🎓 Education
+
+### Silver Oak University — Ahmedabad, Gujarat
 
 **Master of Computer Applications (MCA)**  
-Silver Oak University, Gujarat  
 2025 – 2027
 
+### Veer Narmad South Gujarat University — Surat, Gujarat
+
 **Bachelor of Computer Applications (BCA)**  
-Veer Narmad South Gujarat University, Surat  
 2022 – 2025
 
-### 🔎 Currently Looking For
+---
 
-Internship and entry-level opportunities in:
+## 📚 Currently Learning
 
-**Backend Development • Python Development • Applied AI • LLM Applications • Software Development**
+- Python Backend Development
+- FastAPI
+- REST API Development
+- LLM Integration
+- Applied AI
+- PostgreSQL
+- Backend Architecture
+- Data Analytics
+- Power BI
+- SQL
 
-📍 Open to **Remote → Surat → Vadodara → Mumbai → Ahmedabad/Gandhinagar**
+---
 
-### 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/nilgohil](https://www.linkedin.com/in/nilgohil)
-- 📧 Email: nilgohil235@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/nilgohil">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nilgohil235@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/gohilnil">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gohilnil&show_icons=true&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gohilnil&hide_border=true" />
+</p>
+
+---
+
+## 👨‍💻 What I'm Looking For
+
+I'm currently looking for **internship and entry-level opportunities** in:
+
+- Backend Development
+- Python Development
+- Applied AI
+- LLM Applications
+- Software Development
+
+**Preferred:** Remote → Surat → Vadodara → Mumbai → Ahmedabad/Gandhinagar
+
+---
+
+⭐ **Thanks for visiting my profile!**
